@@ -1,4 +1,4 @@
-﻿/*
+﻿
 using System.Text;
 
 namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
@@ -87,4 +87,3 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
         }
     }
 }
-*/
