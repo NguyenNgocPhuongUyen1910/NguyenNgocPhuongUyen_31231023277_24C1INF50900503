@@ -1,4 +1,4 @@
-﻿
+﻿/*
 using System.Text;
 
 namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
@@ -56,11 +56,11 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
         public static void Question_05()
         {
             // convert Celsius to Fahrenheit
-            /* float C;
+            float C;
                 Console.Write("Enter number of C: ");
                 C = float.Parse(Console.ReadLine());
                 double F = ((float)C * 1.8) + 32;
-                Console.WriteLine($"{C} Celsius = {F} Fahrenheit"); */
+                Console.WriteLine($"{C} Celsius = {F} Fahrenheit");
             // convert Fahrenheit to Celsius
             double F;
             Console.Write("Enter number of F: ");
@@ -116,5 +116,5 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
             Console.WriteLine($"{days} days= {year} years, {week} weeks), {day} days");
         }
     }
-}
+} */
 
