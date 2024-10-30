@@ -1,4 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿
 using System.Text;
 
 namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
@@ -7,7 +7,7 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
     {
         public static void Main()
         {
-            exercise2_10();
+            exercise1_1();
         }
 
         // EXERCISE 1: Operators

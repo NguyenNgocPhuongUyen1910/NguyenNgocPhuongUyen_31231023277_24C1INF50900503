@@ -53,7 +53,7 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
         }
 
         // 5. to convert Celsius to Fahrenheit and vice versa
-        public static void Question_05()
+        public static void Question_05_01()
         {
             // convert Celsius to Fahrenheit
             float C;
@@ -61,7 +61,11 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
                 C = float.Parse(Console.ReadLine());
                 double F = ((float)C * 1.8) + 32;
                 Console.WriteLine($"{C} Celsius = {F} Fahrenheit");
-            // convert Fahrenheit to Celsius
+        }
+
+        // convert Fahrenheit to Celsius
+        public static void Question_05_02()
+        {
             double F;
             Console.Write("Enter number of F: ");
             F = double.Parse(Console.ReadLine());
@@ -116,4 +120,4 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
             Console.WriteLine($"{days} days= {year} years, {week} weeks), {day} days");
         }
     }
-} 
+}
