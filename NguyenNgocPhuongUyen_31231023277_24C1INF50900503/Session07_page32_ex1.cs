@@ -16,12 +16,6 @@ namespace NguyenNgocPhuongUyen_31231023277_24C1INF50900503
     /// 2 2
     /// 3 3 3 3
     /// 4 4
-    /// 2. Create a Jagged Array with random integer numbers (or by user input) by getting the number of rows and columns from the user and printing the data in the array to the user.
-    /// Then, create functions to implement following tasks:
-    /// 1. Print the biggest number of each row and the largest number of the whole array.
-    /// 2. Sort values ascending of each row.
-    /// 3. Print items of the array that are prime.
-    /// 4. Search and print all positions of a number (enter from the user).
     /// </summary>
     internal class Session07_page32_ex1
     {
